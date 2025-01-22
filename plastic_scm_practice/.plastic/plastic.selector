@@ -1,4 +1,0 @@
-repository "plastic_scm_practice/plastic_scm_practice@14568781028348@cloud"
-  path "/"
-    br "/main"
-    co "/main"
